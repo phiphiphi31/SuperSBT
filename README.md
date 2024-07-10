@@ -1,4 +1,4 @@
-# OSTrack
+# SuperSBT
 The official implementation for the SuperSBT, [Correlation-Embedded Transformer Tracking:
 A Single-Branch Framework](https://arxiv.org/pdf/2401.12743).
 
