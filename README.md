@@ -1,4 +1,4 @@
-# [Correlation-Embedded Transformer Tracking: A Single-Branch Framework](https://arxiv.org/pdf/2401.12743)
+# [Correlation-Embedded Transformer Tracking: A Single-Branch Framework (SuperSBT)](https://arxiv.org/pdf/2401.12743)
 
 
 ```bibtex
