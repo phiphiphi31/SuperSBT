@@ -1,5 +1,4 @@
 # [Correlation-Embedded Transformer Tracking: A Single-Branch Framework](https://arxiv.org/pdf/2401.12743)
-# SuperSBT
 
 :star: The official implementation for the [SuperSBT](https://arxiv.org/pdf/2401.12743).
 
