@@ -1,14 +1,16 @@
 # [Correlation-Embedded Transformer Tracking: A Single-Branch Framework](https://arxiv.org/pdf/2401.12743)
 
+
+```bibtex
+Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng
+```
+
 :star: The official implementation for the [SuperSBT](https://arxiv.org/pdf/2401.12743).
 
 :star:  SuperSBT is the improved version of the [SBT](https://github.com/phiphiphi31/SBT) which is published in **CVPR 2022** [Correlation-Aware Deep Tracking
 ](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Correlation-Aware_Deep_Tracking_CVPR_2022_paper.pdf).
 
 
-```bibtex
-Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng
-```
 
  [[Pretrained Weight](https://drive.google.com/drive/folders/1mRawJdhJ9jGkdH5SyJnIOlUWKJwq0h5J?usp=sharing)] [[Models](https://drive.google.com/drive/folders/10fpCZqRUMJBfnD9ZiIXNiFu5POGp8v3s?usp=sharing)] [[Raw Results](https://drive.google.com/drive/folders/1ok7FnAHYM4hXOzshIXaxiO8exbOJjJWf?usp=sharing)]
 
