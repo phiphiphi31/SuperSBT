@@ -1,12 +1,11 @@
 # SuperSBT
-The official implementation for the SuperSBT, [Correlation-Embedded Transformer Tracking:
+::star:: The official implementation for the SuperSBT, [Correlation-Embedded Transformer Tracking:
 A Single-Branch Framework](https://arxiv.org/pdf/2401.12743).
 
-The conference version, SBT is the **CVPR 2022** paper [Correlation-Aware Deep Tracking
-](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Correlation-Aware_Deep_Tracking_CVPR_2022_paper.pdf) and
+::star::  The conference version, SBT is the **CVPR 2022** paper [Correlation-Aware Deep Tracking
+](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Correlation-Aware_Deep_Tracking_CVPR_2022_paper.pdf).
 
-[[Models](httpshSy?usp=sharing)] [[Raw Results](https://drCiaR?usp=sharing)]
-
+ [[Pretrained Weight](https://drCiaR?usp=sharing)] [[Models](httpshSy?usp=sharing)] [[Raw Results](https://drCiaR?usp=sharing)]
 
 
 
