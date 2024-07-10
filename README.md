@@ -30,7 +30,7 @@ dedicated prediction heads.
 
 ### Better Speed-performance Trade-off
 <p align="center">
-  <img width="85%" src="assets/speed_performance.png" alt="Framework"/>
+  <img width="65%" src="assets/speed_performance.png" alt="Framework"/>
 </p>
 
 |    Tracker     | GOT-10K (AO) | LaSOT (AUC) | TrackingNet (AUC) | TNL2K(AUC) |
