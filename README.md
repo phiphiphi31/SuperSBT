@@ -2,7 +2,7 @@
 :star: The official implementation for the SuperSBT, [Correlation-Embedded Transformer Tracking:
 A Single-Branch Framework](https://arxiv.org/pdf/2401.12743).
 
-:star:  SuperSBT is the improved version of the SBT which is published in **CVPR 2022** [Correlation-Aware Deep Tracking
+:star:  SuperSBT is the improved version of the [SBT](https://github.com/phiphiphi31/SBT) which is published in **CVPR 2022** [Correlation-Aware Deep Tracking
 ](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Correlation-Aware_Deep_Tracking_CVPR_2022_paper.pdf).
 
 
