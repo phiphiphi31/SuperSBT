@@ -107,7 +107,7 @@ Replace `--config` with the desired model config under `experiments/supersbt`. W
 
 
 ## Evaluation
-Download the model weights from [Google Drive]() 
+Download the model weights mentioned above 
 
 Put the downloaded weights on `$PROJECT_ROOT$/output/checkpoints/train/supersbt`
 
