@@ -5,6 +5,8 @@
 Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng
 ```
 
+:star: SuperSBT is accepted by T-PAMI in Aug. 2024!
+
 :star: The official implementation for the [SuperSBT](https://arxiv.org/pdf/2401.12743).
 
 :star:  SuperSBT is the improved version of the [SBT](https://github.com/phiphiphi31/SBT) which is published in **CVPR 2022** [Correlation-Aware Deep Tracking
